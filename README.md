@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 CariCariKos app 
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+Nyari kos atau kontrakan gak perlu repot lagi buat datengin langsung. Cek di web kami, deal, tinggal nempatin
 
 ## Demo App
 
